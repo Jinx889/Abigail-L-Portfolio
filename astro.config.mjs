@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Jinx889.github.io',
+  site: 'https://jinx889.github.io',
   base: '/Abigail-L-Portfolio',
 })
