@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://Jinx889.github.io',
-  base: '/Abgail-L-Portfolio',
+  base: '/Abigail-L-Portfolio',
 })
